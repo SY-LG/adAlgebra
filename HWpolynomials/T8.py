@@ -3,4 +3,4 @@ from tools import rational_root
 
 x=Symbol('x')
 f=poly(4*x**4-7*x**2-5*x-1)
-print(rational_root(f))
+rational_root(f)
