@@ -6,3 +6,4 @@
 
 -   HWpolynomials: 多项式相关代码
 -   HW3：第三周作业
+-   HW6：第六周作业
